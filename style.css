@@ -1,0 +1,26 @@
+.profile_img{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.profile_info{
+    letter-spacing: 4px;
+}
+.summary_class{
+    margin-top: 10px;
+    margin-bottom: 20px;  
+}
+.paragraph_class{
+    font-size: larger;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.ul_skills{
+    font-size: larger;
+    margin-top: 10px;
+    margin-bottom: 20px
+}
+.aboutme{
+    font-size: larger;
+    margin-top: 10px;
+    margin-bottom: 20px
+}
